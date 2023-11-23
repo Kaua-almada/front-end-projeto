@@ -1,0 +1,33 @@
+.input-Products-pai {
+    margin: auto;
+    width: 99%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #eeeeee;
+
+  }
+  
+  .inputsProducts input {
+    width: 99%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .inputsProducts input:focus {
+    outline: none;
+    border-color: #000;
+  }
+  .produto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 30px;
+    font-family: "Courier New", monospace;
+}
+.navbar{
+    
+  width: 40%;
+}
